@@ -1,4 +1,4 @@
-# Dos2unix-script using to automatically converting the format of file from windos to unix
+# Dos2unix-script using to automatic converting the format of file from windos to unix
 
 ## How to use?
 
