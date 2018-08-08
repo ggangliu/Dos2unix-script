@@ -1,6 +1,6 @@
 import os
 
-#os.system(r"git status > git-status-file-list")
+os.system(r"git status > git-status-file-list")
 print("\n"+23*"*"+"Files list"+23*"*")
 with open("git-status-file-list", "r") as f:
     for line in f.readlines():
